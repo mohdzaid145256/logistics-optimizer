@@ -1,0 +1,7 @@
+order_id,customer_id,distance_km,estimated_travel_time,vehicle_age_norm,distance_efficiency
+2001,C050,12.5,35,0.25,0.82
+2002,C051,6.8,20,0.50,0.90
+2003,C052,18.2,50,0.33,0.77
+2004,C053,3.4,10,0.16,0.95
+2005,C054,15.1,40,0.41,0.80
+

@@ -1,0 +1,51 @@
+order_id,actual_delivery_time,delivery_partner,delay_reason
+1001,2024-05-08 10:00:00,XpressBees,On time
+1002,2024-05-07 14:00:00,XpressBees,Weather
+1003,2024-05-06 19:00:00,XpressBees,Traffic
+1004,2024-05-08 15:00:00,DTDC,Weather
+1005,2024-05-06 10:00:00,EcomExpress,Traffic
+1006,2024-05-08 17:00:00,EcomExpress,Staff shortage
+1007,2024-05-06 15:00:00,DTDC,Traffic
+1008,2024-05-09 12:00:00,Delhivery,Staff shortage
+1009,2024-05-09 18:00:00,Delhivery,Staff shortage
+1010,2024-05-04 10:00:00,BlueDart,On time
+1011,2024-05-08 16:00:00,DTDC,Traffic
+1012,2024-05-04 16:00:00,BlueDart,Vehicle issue
+1013,2024-05-09 10:00:00,XpressBees,Vehicle issue
+1014,2024-05-09 14:00:00,XpressBees,On time
+1015,2024-05-04 20:00:00,EcomExpress,Weather
+1016,2024-05-07 14:00:00,EcomExpress,Traffic
+1017,2024-05-04 20:00:00,XpressBees,Weather
+1018,2024-05-08 13:00:00,XpressBees,Traffic
+1019,2024-05-05 14:00:00,XpressBees,Vehicle issue
+1020,2024-05-07 16:00:00,BlueDart,Staff shortage
+1021,2024-05-06 11:00:00,Delhivery,Weather
+1022,2024-05-05 16:00:00,EcomExpress,On time
+1023,2024-05-06 18:00:00,DTDC,Traffic
+1024,2024-05-09 13:00:00,BlueDart,Staff shortage
+1025,2024-05-09 09:00:00,Delhivery,Weather
+1026,2024-05-07 15:00:00,XpressBees,On time
+1027,2024-05-08 14:00:00,EcomExpress,Weather
+1028,2024-05-09 15:00:00,Delhivery,Staff shortage
+1029,2024-05-08 13:00:00,BlueDart,Weather
+1030,2024-05-09 09:00:00,EcomExpress,Weather
+1031,2024-05-04 14:00:00,XpressBees,Staff shortage
+1032,2024-05-08 11:00:00,DTDC,Vehicle issue
+1033,2024-05-05 18:00:00,EcomExpress,Staff shortage
+1034,2024-05-08 15:00:00,XpressBees,Weather
+1035,2024-05-08 17:00:00,DTDC,On time
+1036,2024-05-06 15:00:00,EcomExpress,Vehicle issue
+1037,2024-05-09 10:00:00,BlueDart,On time
+1038,2024-05-09 12:00:00,DTDC,Vehicle issue
+1039,2024-05-05 10:00:00,Delhivery,Vehicle issue
+1040,2024-05-06 18:00:00,Delhivery,Staff shortage
+1041,2024-05-05 19:00:00,XpressBees,On time
+1042,2024-05-09 17:00:00,DTDC,Staff shortage
+1043,2024-05-06 09:00:00,Delhivery,Staff shortage
+1044,2024-05-09 11:00:00,BlueDart,Staff shortage
+1045,2024-05-04 12:00:00,EcomExpress,Staff shortage
+1046,2024-05-09 18:00:00,BlueDart,Vehicle issue
+1047,2024-05-08 17:00:00,EcomExpress,On time
+1048,2024-05-06 11:00:00,Delhivery,On time
+1049,2024-05-04 16:00:00,EcomExpress,Weather
+1050,2024-05-04 18:00:00,XpressBees,Staff shortage
