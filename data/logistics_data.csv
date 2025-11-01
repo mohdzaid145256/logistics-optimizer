@@ -1,0 +1,6 @@
+order_id,distance_km,estimated_travel_time,vehicle_age_norm,distance_efficiency,delayed
+1001,200,4.5,0.3,0.8,1
+1002,150,3.2,0.2,0.9,0
+1003,300,6.0,0.5,0.7,1
+1004,100,2.1,0.1,0.95,0
+1005,250,5.0,0.4,0.75,1
